@@ -73,8 +73,7 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 📞 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
+Your Name - [@fraxsys](https://twitter.com/fraxsys) - 
 Project Link: [https://github.com/yourusername/channel-forward-auto-responder-bot](https://github.com/yourusername/channel-forward-auto-responder-bot)
 
 ## 🙏 Acknowledgements
